@@ -1,7 +1,10 @@
-### Hi there 👋
 
-My name is Osuolale Emmanuel
-I am a Backend Developer
+
+
+<div align="center">
+    <h2>Hello, I'm Emmanuel Osuolale! <img src="https://github.com/salonigupta1/salonigupta1/blob/master/Assets/Hi.gif" width="29px"></h2>
+  </a>
+</div>
 
 You can connect with me on [Linkedin](https://linkedin.com/iyanuloluwa-osuolale)
 

@@ -6,7 +6,6 @@
   </a>
 </div>
 
-You can connect with me on [Linkedin](https://linkedin.com/iyanuloluwa-osuolale)
 
 <br>
 <p align="center">
